@@ -1,5 +1,7 @@
 {
   "name": "BYOP",
-  "integrations": {},
+  "integrations": {
+    "cordova": {}
+  },
   "type": "angular"
 }
